@@ -1,0 +1,2 @@
+# ForkPointCalcTask
+Simple JavaScript calculator.
